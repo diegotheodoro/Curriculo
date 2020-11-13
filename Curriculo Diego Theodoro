@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>Curriculo Online</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+    <!-- Layout fluido ocupa toda largura da tela -->
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Diego Souza Theodoro</h1>
+        </div>
+        
+        <!--Linha-->
+        <div class="container">
+            <div class="col-sm-8">
+                <h2><mark>Sobre</mark></h2>
+                <p>Brasileiro, solteiro, nascido em 06/08/1982 em Londrina-PR Graduado em Arquivologia pela Universidade Estadual de Londrina, Cursando Análise e Desenvolvimento de Sistemas na Unicesumar Campus londrina. Sou analítico, organizado, de fácil relacionamento, tenho facilidade em tomar decisões, detectar e implantar soluções, disposto a aprender e a crescer junto com a equipe e a organização.</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-sm-8">
+                <h2>Formação Acadêmica</h2>
+                <p>Graduado em Arquivologia –UEL- Conclusão em 03/2016</p>
+                <p>Análise e Desenvolvimento de Sistemas – Unicesumar Londrina (Cursando 2º semestre)</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-sm-8">
+                <h2>Cursos</h2>
+                <p>Informática intermediária Pacote Office</p>
+                <p>Gestão em arquivos históricos (UEL)</p>
+                <p>Organização do Arquivo de Recursos Humanos – 2014 (Acervo Organização de Documentos)</p>
+            </div>
+        </div>
+        <h2>Experiência Profissional</h2>
+        <div class="container">
+            <div class="col-sm-4">
+                <h3>REDE ABSOLUTA</h3>
+                <h4>Arquivista</h4>
+                <h4>Período: 02/2017 - 06/2020</h4>
+                <p>Prestando serviço junto aos setores da empresa, com estruturação, padronização do arquivo;
+                organização da documentação de rescisões; realizando o levantamento dos documentos de
+                colaboradores ativos; elaboração de instrumentos de pesquisa; separação e digitalização de
+                documentos para ações trabalhistas e auditorias.</p>
+            </div>
+        </div>
+        <div class="container">
+            <div class="col-sm-4">
+                <h3>REVISÕES CANTONI LTDA</h3>
+                <h4>Encarregado / Supervisor de Arquivo</h4>
+                <h4>Período: 01/2013 - 10/2016</h4>
+                <p>Supervisionar as atividades de arquivo da empresa, desenvolvendo e implementando
+                procedimentos de organização e classificação de documentos, garantindo o seu adequado
+                armazenamento e conservação através do arquivo físico e digital.</p>
+                <h4>Auxiliar Administrativo</h4>
+                <h4>Período: 01/2012 - 12/2012</h4>
+                <p>Responsável pela elaboração de planilhas para identificação, guarda e resgate de documentos,
+                realizando a guarda conforme as normas, implementação do arquivo digital e manutenção dos
+                documentos de arquivo de RH para ações trabalhistas e auditorias.</p>
+            </div>
+            <div class="col-sm-4">
+                <h3>CANTONI E CANTONI LTDA</h3>
+                <h4>Auxiliar Administrativo</h4>
+                <h4>Período: 04/2009 - 06/2011</h4>
+                <p>Responsável pelo cadastramento eletrônico de novos clientes e casos no sistema, realizando a
+                abertura eletrônica de volumes e subpastas no sistema, organizando e controlando abertura de
+                pastas físicas, atuando com manutenção regular do arquivo ativo, remanejamento e enviando documentos para o arquivo inativo, encerramento de casos e pastas, atualização diária através
+                do coletor de informações.</p>
+            </div>  
+        </div>
+        <h2>Contato</h2>
+        <p>Telefone: (43)99941-6544</p>
+        <p>E-mail: theodoro.diego@gmail.com / diego.theodoro@hotmail.com</p>
+    </body>
+</html>
